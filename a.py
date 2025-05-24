@@ -49,7 +49,7 @@ TELEGRAM_BOT_TOKEN = '7896865494:AAHVWacizGjvf8-vFWiOhQBSdzXUK_mWPg4'
 OWNER_ID = 7663163950  # 👈 Put your real Telegram user ID here
 CO_OWNERS = []  # List of user IDs for co-owners
 OWNER_CONTACT = "Contact to buy keys"
-ALLOWED_GROUP_IDS = [-1002587728643]
+ALLOWED_GROUP_IDS = [-1002587728643,-1002286615390]
 MAX_THREADS = 1000
 max_duration = 120
 bot_open = False
@@ -69,7 +69,7 @@ LINKS = {}
 
 # VPS Configuration
 VPS_FILE = "vps.txt"
-BINARY_NAME = "bgmi"
+BINARY_NAME = "soul"
 BINARY_PATH = f"/home/master/{BINARY_NAME}"
 VPS_LIST = []
 
